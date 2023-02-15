@@ -1,1 +1,20 @@
-Today's project is all about shell,variables and expansions
+total 72
+-rwxr-xr-x 1 root root  30 Feb 14 14:19 0-alias
+-rwxr-xr-x 1 root root  35 Feb 15 00:28 100-decimal_to_hexadecimal
+-rwxr-xr-x 1 root root  39 Feb 15 00:29 101-rot13
+-rwxr-xr-x 1 root root  44 Feb 15 00:29 102-odd
+-rwxr-xr-x 1 root root 135 Feb 15 00:30 103-water_and_stir
+-rwxr-xr-x 1 root root  37 Feb 15 00:24 10-love_exponent_breath
+-rwxr-xr-x 1 root root  32 Feb 15 00:26 11-binary_to_decimal
+-rwxr-xr-x 1 root root  59 Feb 15 00:27 12-combinations
+-rwxr-xr-x 1 root root  39 Feb 15 00:27 13-print_float
+-rwxr-xr-x 1 root root  31 Feb 15 00:16 1-hello_you
+-rwxr-xr-x 1 root root  38 Feb 15 00:17 2-path
+-rwxr-xr-x 1 root root  45 Feb 15 00:17 3-paths
+-rwxr-xr-x 1 root root  21 Feb 15 00:18 4-global_variables
+-rwxr-xr-x 1 root root  16 Feb 15 00:19 5-local_variables
+-rwxr-xr-x 1 root root  26 Feb 15 00:21 6-create_local_variable
+-rwxr-xr-x 1 root root  31 Feb 15 00:21 7-create_global_variable
+-rwxr-xr-x 1 root root  43 Feb 15 00:24 8-true_knowledge
+-rwxr-xr-x 1 root root  39 Feb 15 00:24 9-divide_and_rule
+-rw-r--r-- 1 root root   0 Feb 15 00:35 README.md
