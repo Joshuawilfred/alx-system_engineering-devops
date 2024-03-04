@@ -55,4 +55,3 @@ bash script.sh
 ## Author
 
 This repository is maintained by [Joshua Wilfred]. Feel free to contact me if you have any questions or suggestions.
-> `Joshua Wilfred`  *joshuakaaya216@gmail.com*
